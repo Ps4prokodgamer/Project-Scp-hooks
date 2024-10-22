@@ -1,3 +1,5 @@
+// THIS IS MADE FOR INSURGENcY FILES  
+
 NewTeam("Baba Yaga","#918552");
 ModifyTeam("Baba Yaga","GroupName","Other");
 ModifyTeam("Baba Yaga","SpawnName","Tutorial");
