@@ -4,7 +4,7 @@ NewTeam("Baba Yaga","#918552");
 ModifyTeam("Baba Yaga","GroupName","Other");
 ModifyTeam("Baba Yaga","SpawnName","Tutorial");
 ModifyTeam("Baba Yaga","BaseHealth",750);
-ModifyTeam("Baba Yaga","Immunity",50);
+ModifyTeam("Baba Yaga","Immunity",50); // remove this or remove the Protection and vest combined
 ModifyTeam("Baba Yaga","VestName","SCP");
 ModifyTeam("Baba Yaga","Protection",850);
 ModifyTeam("Baba Yaga","Shirt",1790870840);
