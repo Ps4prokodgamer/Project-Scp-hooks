@@ -23,5 +23,4 @@ ModifyTeam("Class-E","Unattackable",false);
 ModifyTeam("Class-E","Uncuffable",false);
 ModifyTeam("Class-E","CantContributeToSCPCount",false);
 ModifyTeam("Class-E","CanAttack",false);
-ModifyTeam("Class-E","BodyColor","#fffbaa");
 ModifyTeam("Class-E","Face",405704912);
