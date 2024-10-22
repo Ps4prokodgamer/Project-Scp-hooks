@@ -1,6 +1,6 @@
 NewTeam("Class-E","#ff9624");
 ModifyTeam("Class-E","GroupName","Class-D");
-ModifyTeam("Class-E","SpawnName","class-d");
+ModifyTeam("Class-E","SpawnName","Class-D");
 ModifyTeam("Class-E","BaseHealth",100);
 ModifyTeam("Class-E","Shirt",6293793927);
 ModifyTeam("Class-E","Pants",6293801520);
