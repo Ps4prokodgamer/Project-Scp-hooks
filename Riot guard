@@ -1,0 +1,29 @@
+NewTeam("Riot Response", "#4ef591");
+ModifyTeam("Riot Response", "GroupName", "Security");
+
+
+ModifyTeam("Riot Response", "SpawnName", "Researcher");
+ModifyTeam("Riot Response", "SpawnText", "You are a Riot Response Unit for the Foundation.
+Class-D Personnel has gone rogue, all thanks to Reggie.
+<b>Neutralize or Restrain the Labrats.</b>");
+
+
+ModifyTeam("Riot Response", "shirt", "9727617293");
+ModifyTeam("Riot Response", "pants", "6478472017");
+AddTeamAccessory("Riot Response", "helmet", "18759636287");
+
+ModifyTeamItems("Riot Response", 1, "P90");
+ModifyTeamItems("Riot Response", 2, "USP");
+ModifyTeamItems("Riot Response", 3, "Facility Guard Keycard");
+ModifyTeamItems("Riot Response", 4, "Radio");
+ModifyTeamItems("Riot Response", 5, "Baton");
+ModifyTeamItems("Riot Response", 6, "Handcuffs");
+ModifyTeamItems("Riot Response", 7, "Skin Spray");
+ModifyTeamAmmo("Riot Response", "SmallCaliber", 250);
+
+
+ModifyTeam("Riot Response", "BaseHealth", 100);
+ModifyTeam("Riot Response", "Protection", 100);
+
+ModifyTeam("Riot Response", "IsHuman", true);
+ModifyTeam("Riot Response", "VestName", "Light Weight Vest");
