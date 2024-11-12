@@ -1,0 +1,121 @@
+//Nu-7 Operative
+NewTeam("Nu-7 Operative","#9dc6c7");
+ModifyTeam("Nu-7 Operative","Color","#0f9147");
+ModifyTeam("Nu-7 Operative","SpawnName","CI");
+ModifyTeam("Nu-7 Operative","GroupName","MTF");
+ModifyTeam("Nu-7 Operative","MaxHealth","100");
+ModifyTeam("Nu-7 Operative","Protection","175");
+ModifyTeam("Nu-7 Operative","SpawnText","You are a Nu-7 Operative.
+Follow your higher rank's commands.
+<b>Terminate all SCP Objects.</b>");
+ModifyTeamItems("Nu-7 Operative", 1,"M4A1");
+ModifyTeamItems("Nu-7 Operative", 2,"MTF Lieutenant Keycard");
+ModifyTeamItems("Nu-7 Operative", 3,"Medkit");
+ModifyTeamItems("Nu-7 Operative", 4,"Medkit");
+ModifyTeamItems("Nu-7 Operative", 5,"Radio");
+ModifyTeamItems("Nu-7 Operative", 6,"HK169 Grenade Launcher");
+ModifyTeam("Nu-7 Operative","Shirt", 5947694723);
+ModifyTeam("Nu-7 Operative","Pants", 5947727373);
+AddTeamAccessory("Nu-7 Operative", "accessory1", "12586895741");
+AddTeamAccessory("Nu-7 Operative", "accessory2", "6673771780");
+AddTeamAccessory("Nu-7 Operative", "accessory3", "13906057011");
+AddTeamAccessory("Nu-7 Operative", "accessory4", "6869988715");
+AddTeamAccessory("Nu-7 Operative", "accessory5", "6201824030");
+AddTeamAccessory("Nu-7 Operative", "accessory6", "12325937727");
+AddTeamAccessory("Nu-7 Operative", "accessory7", "13723857718");
+AddTeamAccessory("Nu-7 Operative", "accessory8", "13850652463");
+AddTeamAccessory("Nu-7 Operative", "accessory9", "10599636286");
+AddTeamAccessory("Nu-7 Operative", "accessory10", "13327087857");
+
+
+//Nu-7 Lieutenant General
+NewTeam("Nu-7 Lieutenant General","#9dc6c7");
+ModifyTeam("Nu-7 Lieutenant General","Color","#0f9147");
+ModifyTeam("Nu-7 Lieutenant General","SpawnName","CI");
+ModifyTeam("Nu-7 Lieutenant General","GroupName","MTF");
+ModifyTeam("Nu-7 Lieutenant General","MaxHealth","125");
+ModifyTeam("Nu-7 Lieutenant General","BaseHealth","125");
+ModifyTeam("Nu-7 Lieutenant General","Protection","175");
+ModifyTeam("Nu-7 Lieutenant General","SpawnText","You are a Nu-7 Lieutenant General.
+You are more experienced than normal operatives.
+<b>Terminate all SCP Objects.</b>");
+ModifyTeamItems("Nu-7 Lieutenant General", 1,"Beowulf");
+ModifyTeamItems("Nu-7 Lieutenant General", 2,"MTF Lieutenant Keycard");
+ModifyTeamItems("Nu-7 Lieutenant General", 3,"Stun Grenade");
+ModifyTeamItems("Nu-7 Lieutenant General", 4,"Medkit");
+ModifyTeamItems("Nu-7 Lieutenant General", 5,"Radio");
+ModifyTeamItems("Nu-7 Lieutenant General", 6,"Grenade");
+ModifyTeam("Nu-7 Lieutenant General","Shirt", 5947694723);
+ModifyTeam("Nu-7 Lieutenant General","Pants", 5947727373);
+AddTeamAccessory("Nu-7 Lieutenant General", "accessory1", "12586895741");
+AddTeamAccessory("Nu-7 Lieutenant General", "accessory2", "6673771780");
+AddTeamAccessory("Nu-7 Lieutenant General", "accessory3", "13906057011");
+AddTeamAccessory("Nu-7 Lieutenant General", "accessory4", "6869988715");
+AddTeamAccessory("Nu-7 Lieutenant General", "accessory5", "6201824030");
+AddTeamAccessory("Nu-7 Lieutenant General", "accessory6", "12325937727");
+AddTeamAccessory("Nu-7 Lieutenant General", "accessory7", "13723857718");
+AddTeamAccessory("Nu-7 Lieutenant General", "accessory8", "13850652463");
+AddTeamAccessory("Nu-7 Lieutenant General", "accessory9", "10599636286");
+AddTeamAccessory("Nu-7 Lieutenant General", "accessory10", "13327087857");
+
+
+//Nu-7 General
+NewTeam("Nu-7 General","#9dc6c7");
+ModifyTeam("Nu-7 General","Color","#0e6333");
+ModifyTeam("Nu-7 General","SpawnName","CI");
+ModifyTeam("Nu-7 General","GroupName","MTF");
+ModifyTeam("Nu-7 General","MaxHealth","150");
+ModifyTeam("Nu-7 General","BaseHealth","150");
+ModifyTeam("Nu-7 General","Protection","250");
+ModifyTeam("Nu-7 General","SpawnText","You are the leader of Nu-7.
+Unite your men and lead them to victory. They depend on you.
+<b>Terminate all SCP Objects.</b>");
+ModifyTeamItems("Nu-7 General", 1,"M60");
+ModifyTeamItems("Nu-7 General", 2,"MTF Commander Keycard");
+ModifyTeamItems("Nu-7 General", 3,"Stun Grenade");
+ModifyTeamItems("Nu-7 General", 4,"Medkit");
+ModifyTeamItems("Nu-7 General", 5,"Radio");
+ModifyTeamItems("Nu-7 General", 6,"Grenade");
+ModifyTeamItems("Nu-7 General", 7,"Smoke Grenade");
+ModifyTeam("Nu-7 General","Shirt", "5947694723");
+ModifyTeam("Nu-7 General","Pants", "5947727373");
+AddTeamAccessory("Nu-7 General", "accessory1", "12586895741");
+AddTeamAccessory("Nu-7 General", "accessory2", "6673771780");
+AddTeamAccessory("Nu-7 General", "accessory3", "13906057011");
+AddTeamAccessory("Nu-7 General", "accessory4", "6869988715");
+AddTeamAccessory("Nu-7 General", "accessory5", "6201824030");
+AddTeamAccessory("Nu-7 General", "accessory6", "12325937727");
+AddTeamAccessory("Nu-7 General", "accessory7", "13723857718");
+AddTeamAccessory("Nu-7 General", "accessory8", "13850652463");
+AddTeamAccessory("Nu-7 General", "accessory9", "10599636286");
+AddTeamAccessory("Nu-7 General", "accessory10", "13327087857");
+
+//Nu-7 Charger
+NewTeam("Nu-7 Charger","#9dc6c7");
+ModifyTeam("Nu-7 Charger","Color","#17b35b");
+ModifyTeam("Nu-7 Charger","SpawnName","CI");
+ModifyTeam("Nu-7 Charger","GroupName","MTF");
+ModifyTeam("Nu-7 Charger","MaxHealth","175");
+ModifyTeam("Nu-7 Charger","BaseHealth","175");
+ModifyTeam("Nu-7 Charger","Protection","250");
+ModifyTeam("Nu-7 Charger","SpawnText","You are a Nu-7 Charger.
+You have an shield, utilize it.
+<b>Terminate all SCP Objects.</b>");
+ModifyTeamItems("Nu-7 Charger", 1,"UMP-45");
+ModifyTeamItems("Nu-7 Charger", 2,"Shield");
+ModifyTeamItems("Nu-7 Charger", 3,"Stun Grenade");
+ModifyTeamItems("Nu-7 Charger", 4,"Medkit");
+ModifyTeamItems("Nu-7 Charger", 5,"MTF Lieutenant Keycard");
+ModifyTeamItems("Nu-7 Charger", 6,"Smoke Grenade");
+ModifyTeam("Nu-7 Charger","Shirt", "5947694723");
+ModifyTeam("Nu-7 Charger","Pants", "5947727373");
+AddTeamAccessory("Nu-7 Charger", "accessory1", "12586895741");
+AddTeamAccessory("Nu-7 Charger", "accessory2", "6673771780");
+AddTeamAccessory("Nu-7 Charger", "accessory3", "13906057011");
+AddTeamAccessory("Nu-7 Charger", "accessory4", "6869988715");
+AddTeamAccessory("Nu-7 Charger", "accessory5", "6201824030");
+AddTeamAccessory("Nu-7 Charger", "accessory6", "12325937727");
+AddTeamAccessory("Nu-7 Charger", "accessory7", "13723857718");
+AddTeamAccessory("Nu-7 Charger", "accessory8", "13850652463");
+AddTeamAccessory("Nu-7 Charger", "accessory9", "10599636286");
+AddTeamAccessory("Nu-7 Charger", "accessory10", "13327087857");
