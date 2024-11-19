@@ -1,6 +1,6 @@
 NewTeam("Goc Attack Droid","#62cae0");
 ModifyTeam("Goc Attack Droid","GroupName","GOC");
-ModifyTeam("Goc Attack Droid","SpawnName","Tutorial");
+ModifyTeam("Goc Attack Droid","SpawnName","GOC");
 ModifyTeam("Goc Attack Droid","BaseHealth",350);
 ModifyTeam("Goc Attack Droid","Immunity",15);
 ModifyTeam("Goc Attack Droid","Faceless",true);
